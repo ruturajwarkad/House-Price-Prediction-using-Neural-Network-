@@ -30,7 +30,7 @@ Required columns: area, bathroom, bhk, carpetarea, price
 
 **📁 Project Structure**
 
-house_price_prediction/
+house_price_prediction
 ├── puner.csv
 ├── house_price_model.h5
 ├── best_model.keras
